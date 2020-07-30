@@ -1,0 +1,7 @@
+
+{
+    "mongoURI":"mongodb+srv://HDezhkam:1360904@@cluster0.z7zib.mongodb.net/MERN-React?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId":"ed6bfcab5cb9dea6331b",
+    "githubSecret":"3184c77fb21b2097a0c8c2af86094629e13506f7"
+}
